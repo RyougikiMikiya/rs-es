@@ -1,0 +1,16 @@
+{ "index" : { "_index" : "book", "_id" : "1" } }
+{ "name" : "1111"}
+{ "index" : { "_index" : "book", "_id" : "2" } }
+{ "name" : "2222"}
+{ "index" : { "_index" : "book", "_id" : "3" } }
+{ "name" : "3333"}
+{ "index" : { "_index" : "book", "_id" : "4" } }
+{ "name" : "4444"}
+{ "index" : { "_index" : "book", "_id" : "5" } }
+{ "name" : "55"}
+{ "index" : { "_index" : "book", "_id" : "6" } }
+{ "name" : "6"}
+{ "index" : { "_index" : "book", "_id" : "7" } }
+{"name" : "77"}
+{ "index" : { "_index" : "book", "_id" : "8" } }
+{"name" : "88"}
